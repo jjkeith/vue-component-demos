@@ -1,6 +1,6 @@
-# vue-starter
+# Vue Components Demo
 
-> A Vue.js starter kit that lets you focus on more programming and less configruation.
+> A collection of useful vue components executed with minimal styling and with reusability in mind
 
 ## Build Setup
 
@@ -16,8 +16,3 @@ npm run build
 ```
 # build for production and view the bundle analyzer report
 npm run build --report
-
-
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
