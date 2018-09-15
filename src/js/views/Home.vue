@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <h2>Vue Component Demos</h2>
+    <h2>Vue Component Demo</h2>
     <ul class="menu vertical padding-bottom-3">
       <li><router-link to="/cover-generator">Cover Generator</router-link></li>
       <li><router-link to="/custom-checkbox">Custom Checkbox</router-link></li>

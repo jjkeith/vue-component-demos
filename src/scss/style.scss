@@ -74,6 +74,17 @@ a {
 }
 
 .float-left {
-  float: right;
+  float: left;
+}
+
+.menu.vertical {
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 // 
